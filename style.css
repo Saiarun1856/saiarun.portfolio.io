@@ -705,8 +705,16 @@ body {
         display: flex;
         flex-direction: column;
     }
+    .details{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        font-size: 13px;
+        margin-right: 40px;
+    }
+
     .contact-form{
-        width: 76vw;
+        width: 66vw;
     }
 
 
